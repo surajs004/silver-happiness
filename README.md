@@ -1,1 +1,3 @@
 # silver-happiness
+
+In this, my first Machine Learning project working with text data and applying Natural Language Processing (NLP) techniques, I will aim to predict with words alone whether or not a customer would recommend a purchased item of clothing. Other interesting questions within this kernel include: Which emotive words are most popular? Which aspect of the product is most important - the fit, colour, texture, price? And morever, what would such information mean for a retailer looking to best align their strategy to market demand? I'm not sure about you, but that's enough to spike my interest! There are 23,000 reviews and a binary target variable for overall product recommendation - let's crack on.
